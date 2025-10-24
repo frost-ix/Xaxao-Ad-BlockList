@@ -16,12 +16,10 @@
 ||kcl.kakao.com^
 ||kanana.kakao.com^
 ||t1.daumcdn.net^
-||t1.kakaocdn.net^
 ||kamp.kakao.com^
 ||img1.kakaocdn.net^
-||gift.kakao.com^
-||gift-s.kakaocdn.net^
 ||posty.kr^
 ||booking.kakao.com^
 ||k.kakaocdn.net^
+
 ||partners-kakao.yogiyo.co.kr^
