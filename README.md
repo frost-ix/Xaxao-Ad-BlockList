@@ -4,6 +4,7 @@
 
 ### This filter can add to adguard
 - Add url to Block list in Adguard
+- You can get link > [COPY THIS](https://raw.githubusercontent.com/frost-ix/Xaxao-Ad-BlockList/refs/heads/main/xaxao-ad-blockList.txt)
 
 ### Block ads
 1. Friend feed
