@@ -1,0 +1,27 @@
+[Adblock Plus 2.0]
+! Title: xaxao-Ad-BlockList
+! Homepage: https://github.com/frost-ix/xaxao-Ad-BlockList
+!
+! Lastupdate: 2025-10-24
+!
+
+||shorformstats.kakao.com^$important
+||talk-pilsner.kakao.com^
+||ik.kakaocdn.net^
+||play.kakao.com^
+||shopper.kakao.com^
+||ticket-loco.kakao.com^
+||tv.kakao.com^
+||mcqueen.kakao.com^
+||kcl.kakao.com^
+||kanana.kakao.com^
+||t1.daumcdn.net^
+||t1.kakaocdn.net^
+||kamp.kakao.com^
+||img1.kakaocdn.net^
+||gift.kakao.com^
+||gift-s.kakaocdn.net^
+||posty.kr^
+||booking.kakao.com^
+||k.kakaocdn.net^
+||partners-kakao.yogiyo.co.kr^
