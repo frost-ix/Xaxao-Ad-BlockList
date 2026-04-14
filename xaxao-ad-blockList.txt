@@ -20,6 +20,7 @@
 ||img1.kakaocdn.net^
 ||posty.kr^
 ||booking.kakao.com^
+||booking-loco.kakao.com^
 ||k.kakaocdn.net^
 
 ||partners-kakao.yogiyo.co.kr^
