@@ -22,5 +22,6 @@
 ||booking.kakao.com^
 ||booking-loco.kakao.com^
 ||k.kakaocdn.net^
+||missionplay-o1bml0cz.kgns3.com^
 
 ||partners-kakao.yogiyo.co.kr^
