@@ -6,7 +6,6 @@
 !
 
 ||shorformstats.kakao.com^$important
-||ik.kakaocdn.net^
 ||talk-pilsner.kakao.com^
 ||play.kakao.com^
 ||shopper.kakao.com^
@@ -15,13 +14,25 @@
 ||mcqueen.kakao.com^
 ||kcl.kakao.com^
 ||kanana.kakao.com^
-||t1.daumcdn.net^
 ||kamp.kakao.com^
-||img1.kakaocdn.net^
 ||posty.kr^
 ||booking.kakao.com^
 ||booking-loco.kakao.com^
-||k.kakaocdn.net^
 ||missionplay-o1bml0cz.kgns3.com^
-
 ||partners-kakao.yogiyo.co.kr^
+
+! ! ||t1.daumcdn.net^
+! ! ||img1.kakaocdn.net^
+! ! ||k.kakaocdn.net^
+! ! ||ik.kakaocdn.net^
+
+||display.ad.daum.net^
+||ad.daum.net^
+||analytics.ad.daum.net^
+||kage.ad.daum.net^
+||ad.kakaocdn.net^
+
+||t1.kakaocdn.net/kakaocdn/ad/*$image
+||track.tiara.kakao.com^
+||stat.tiara.kakao.com^
+||stat.tiara.daum.net^
