@@ -6,7 +6,6 @@
 !
 
 ||shorformstats.kakao.com^$important
-||talk-pilsner.kakao.com^
 ||play.kakao.com^
 ||shopper.kakao.com^
 ||ticket-loco.kakao.com^
